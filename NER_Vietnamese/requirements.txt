@@ -1,0 +1,12 @@
+# PyTorch
+torch>=1.10.0
+# HuggingFace & Utilities (Cần thiết cho PhoBERT/RoBERTa)
+transformers==4.30.0
+sentencepiece
+accelerate
+# NLP Toolkit tiếng Việt
+underthesea>=1.3.0
+# Scientific & Machine Learning
+numpy>=1.20.0
+scikit-learn>=0.24.0
+tqdm>=4.60.0
