@@ -8,7 +8,7 @@
 
 Hệ thống rút trích văn bản và phân mảng tiếng Việt được hỗ trợ thông qua [Underthesea](https://github.com/undertheseanlp/underthesea).
 
-### Dự án cá nhân có tham khảo dự án từ github: https://github.com/phkhanhtrinh23/vietnamese_ner_bert
+### Dự án cá nhân có tham khảo dữ liệu, cách xử lý dữ liệu từ dự án của: https://github.com/phkhanhtrinh23/vietnamese_ner_bert
 ---
 
 ## Kiến trúc Hệ Thống
@@ -36,8 +36,8 @@ graph TD
     class C2,D2 feature;
 
     %% Đi tiếp vào Classifier
-    F -->|"Đầu vào (815d)"| G[BiLSTM Layer]
-    G -->|"Sequence Modeling"| H[Dropout]
+    F -->|Đầu vào (815d)| G[BiLSTM Layer]
+    G -->|Sequence Modeling| H[Dropout]
     H --> I[Linear Classifier]
     I --> J[Softmax / Argmax]
     
