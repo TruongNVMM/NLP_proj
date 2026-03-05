@@ -36,8 +36,8 @@ graph TD
     class C2,D2 feature;
 
     %% Đi tiếp vào Classifier
-    F -->|Đầu vào (815d)| G[BiLSTM Layer]
-    G -->|Sequence Modeling| H[Dropout]
+    F -->|"Đầu vào (815d)"| G[BiLSTM Layer]
+    G -->|"Sequence Modeling"| H[Dropout]
     H --> I[Linear Classifier]
     I --> J[Softmax / Argmax]
     

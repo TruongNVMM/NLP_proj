@@ -1,0 +1,5302 @@
+{
+    "hấp_dẫn#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "vui_vẻ#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "dài#9": {
+        "posScore": 0.125,
+        "negScore": 0.375
+    },
+    "phong_phú#1": {
+        "posScore": 0.0,
+        "negScore": 0.25
+    },
+    "thừa_thãi#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "khan_hiếm#1": {
+        "posScore": 0.0,
+        "negScore": 0.25
+    },
+    "chấp_nhận#1": {
+        "posScore": 0.125,
+        "negScore": 0.6
+    },
+    "chính_xác#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "dễ_thương#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nhanh#3": {
+        "posScore": 0.25,
+        "negScore": 0.125
+    },
+    "hoàn_chỉnh#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "giản_lược#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "khéo_tay#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nguyên_chất#4": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thuận_lợi#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "có": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lợi#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tích_cực#3": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "bất_lợi#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khuyến_khích#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tốt_hơn#3": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "tốt": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "nhất#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "ảnh_hưởng#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ấn_tượng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "phủ_định#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "đồng_ý#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "sợ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "báo_động#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vị_tha#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "mơ_hồ#2": {
+        "posScore": 0.125,
+        "negScore": 0.0
+    },
+    "hào_phóng#3": {
+        "posScore": 0.25,
+        "negScore": 0.0
+    },
+    "chật_hẹp#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "tức_giận#3": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "thích_hợp#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "náo_nhiệt#1": {
+        "posScore": 0.375,
+        "negScore": 0.0
+    },
+    "ngạc_nhiên#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ngon_lành#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "láu_cá#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "quý_báu#4": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "sâu_sắc#15": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tự_nhiên#2": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "bất_cẩn#2": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "rõ_ràng#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "nhút_nhát#1": {
+        "posScore": 0.375,
+        "negScore": 0.5
+    },
+    "khờ_dại#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "lo_lắng#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "phô_trương#4": {
+        "posScore": 0.0,
+        "negScore": 0.375
+    },
+    "xám_xịt#1": {
+        "posScore": 0.125,
+        "negScore": 0.25
+    },
+    "thịnh_vượng#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thông_minh#7": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xấu#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khủng_khiếp#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đe_dọa#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "yên_lòng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "quả_quyết#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xinh_đẹp#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "rực_rỡ#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "tiến_bộ#4": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hiểm_ác#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tốt_bụng#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tệ": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "nhất#1": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "hèn_nhát#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tái_mét#2": {
+        "posScore": 0.0,
+        "negScore": 0.25
+    },
+    "tối_tăm#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "hăng_hái#3": {
+        "posScore": 0.25,
+        "negScore": 0.0
+    },
+    "vững_chắc#5": {
+        "posScore": 0.0,
+        "negScore": 0.375
+    },
+    "nhàn_rỗi#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "bình_tĩnh#2": {
+        "posScore": 0.375,
+        "negScore": 0.0
+    },
+    "ổn_định#4": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "bẩn_thỉu#12": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "bực_dọc#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tối_dạ#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lưỡng_lự#2": {
+        "posScore": 0.125,
+        "negScore": 0.125
+    },
+    "cẩn_thận#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cần_thiết#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "trong_sáng#1": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "trung_lập#5": {
+        "posScore": 0.25,
+        "negScore": 0.25
+    },
+    "không": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sắc#1": {
+        "posScore": 0.25,
+        "negScore": 0.25
+    },
+    "giàu#5": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "đục#1": {
+        "posScore": 0.0,
+        "negScore": 0.25
+    },
+    "sáng_sủa#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hà_khắc#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "ngu_dốt#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "yếu#12": {
+        "posScore": 0.125,
+        "negScore": 0.375
+    },
+    "bí_mật#3": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "hạn_chế#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "không_thể#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tuyệt_đối#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "lan_tràn#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "thặng_dư#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "xanh_tươi#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "hiếm#3": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "chặt_chẽ#6": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ngược_đãi#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chấp_nhận_được#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "quen_thuộc#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "hoạt_động#5": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "nóng#21": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nhộn_nhịp#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chậm_chạp#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "chậm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vô_hiệu#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ẩn#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khéo_léo#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "nhanh_nhạy#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nghệ_thuật#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "gây": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ấn_tượng": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "sâu_sắc#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "căng_thẳng#3": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "thô_bạo#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "e_ngại#3": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "mất": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bình_tĩnh#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hung_dữ#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "kích_động#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "dễ_chịu#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "khó_chịu#1": {
+        "posScore": 0.125,
+        "negScore": 0.875
+    },
+    "khắc_nghiệt#6": {
+        "posScore": 0.333,
+        "negScore": 0.667
+    },
+    "hữu_hiệu#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chết#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "sống#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "vô_hồn#4": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "không_thể": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đổi#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "chuyển_nhượng#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "hốt_hoảng#1": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "kị#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "dịu#4": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "mềm#19": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ghen#2": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "khách_quan#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "vô_tư#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hỗn_tạp#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đinh": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tai": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nhức_óc#4": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đinh_tai#4": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tính": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "được#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "khôn_lường#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "hoang_dã#13": {
+        "posScore": 0.375,
+        "negScore": 0.5
+    },
+    "dơ#12": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "quá": {
+        "posScore": 0.0,
+        "negScore": 0.3
+    },
+    "liều_lĩnh#2": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "thận_trọng#1": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "mạch_lạc#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "yên_tâm#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "được": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "chứng_nhận#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "điều_chỉnh#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thay_đổi#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "uyển_chuyển#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "xin_lỗi#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sôi_động#3": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "xanh_xao#3": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nhạt#3": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nhân_đạo#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "nguyên#7": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "sạch#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nguyên_sơ#2": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "dơ_bẩn#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thô_tục#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tệ_hại#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tệ#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sắc_bén#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "dễ_hiểu#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "sống_động#2": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "rắn#10": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "nhầm_lẫn#5": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "hiền#3": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "quá_mức#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "xấu_số#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "ngu_si#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thân_mật#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "phân_tách#3": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "dễ_cháy#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cháy#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đau_đớn#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thoải_mái#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "xứng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thường#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "đặc_biệt#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "độc_đáo#4": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "bở#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lãnh_đạm#1": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "tương_thích#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đối_kháng#5": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "xung_đột#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "thẩm_quyền#3": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "phàn_nàn#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nén#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "toàn_diện#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "triệt_để#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "thản_nhiên#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "khó_hiểu#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đơn_độc#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "mật_độ": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thấp#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "liên_quan#1": {
+        "posScore": 0.5,
+        "negScore": 0.375
+    },
+    "thờ_ơ#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "tạm_thời#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chia_rẽ": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bè_phái#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "giới_hạn#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "hòa_đồng#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "phản_cảm#5": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hài_hòa#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bảo_thủ": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cực_đoan#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "dễ_thấy#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nổi_tiếng#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "lớn#5": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đậm#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "vô_hình#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nhận_rõ#1": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "phân_biệt#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "phá_hủy#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tàn_phá#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tự_mãn#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "tự": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "hài_lòng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "bất_mãn#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "liên_tục#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "hung_hăng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thuận_tiện#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "bất_tiện#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "vụng#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nhận_được#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thông_thường#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đáng_tin_cậy#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hoang_sơ#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "bẩn_thỉu": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "dơ_bẩn#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "giả_dối#3": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "sai_lầm#2": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "lầm#2": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "lịch_sự#2": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "đột_ngột#4": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "bất_lịch_sự#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "quan_trọng#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nghiêm_trọng#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "quan_trọng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đáng_ghét#3": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "may_mắn#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "may#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "hỏng#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "quyết_định#3": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "đoan_trang#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "nghiêm_trang#1": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "liêm_khiết#1": {
+        "posScore": 0.75,
+        "negScore": 0.25
+    },
+    "bất_hợp_tác#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khiêu_dâm#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "kiên_quyết#2": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "do_dự#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khẳng_định#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đánh_bại#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "bất_khả_chiến_bại#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nghịch_ngợm#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ngoan_cố#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tuân_theo#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xác_định#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "chán_nản#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "phấn_chấn#1": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "yếu_đuối": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "mỏng_manh#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "dễ_tính#3": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "tuyệt_vọng#5": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "dân_chủ#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "phi": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chắc_chắn#5": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bất_lực#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "mong_muốn#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "đổ_nát#3": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đắm#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "bảo_tồn#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "phát_hiện#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "quyết_tâm#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "gian_khổ#3": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "nhạy_cảm#2": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "trục_trặc#3": {
+        "posScore": 0.125,
+        "negScore": 0.875
+    },
+    "cố_gắng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bực_bội#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nghiêm#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "ngớ_ngẩn#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cẩu_thả#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "tập_trung#5": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tương_thích#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cạnh_tranh#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nén": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cân_đối#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "lịch_thiệp#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xa_lánh#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vô_tội_vạ#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thẳng#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "tàn_bạo#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sành_điệu#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "sáng_suốt#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "kín_đáo#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "phân_biệt": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "đối_xử#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bừa_bãi#2": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "lăng_nhăng#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "đánh_giá": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cao#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chọn_lọc#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "rời_rạc#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "độc_đoán#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "bắt_nạt#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "phục_tùng#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "không_phục#1": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "sở_hữu#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "khoa_trương#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "sặc_sỡ#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tỉnh_táo#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "sinh_động#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mát_mẻ#1": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "lấp_lánh#3": {
+        "posScore": 0.75,
+        "negScore": 0.25
+    },
+    "lạc_hậu#4": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ham#1": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "danh_dự#1": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "dễ_dàng#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "ít_học#1": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "không_còn": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tồn_tại#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vất_vả#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "mạnh_mẽ#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bắt_buộc#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đủ_điều_kiện#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xứng_đáng#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "phù_hợp": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "mong_muốn#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cảm#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "kiên_nhẫn#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "thất_nghiệp#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "say_mê#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "thất_vọng#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vỡ_mộng#1": {
+        "posScore": 0.5,
+        "negScore": 0.375
+    },
+    "lơ_đãng#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "tối_giản#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "giác_ngộ#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "gan_dạ#1": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "nhiệt_tình#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "ganh_tị#1": {
+        "posScore": 0.375,
+        "negScore": 0.5
+    },
+    "nhớ_nhà#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "phức_tạp#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "tôn_kính#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "khinh#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thương_tâm#1": {
+        "posScore": 0.333,
+        "negScore": 0.667
+    },
+    "thảm_hại": {
+        "posScore": 0.333,
+        "negScore": 0.667
+    },
+    "đáng_thương#2": {
+        "posScore": 0.333,
+        "negScore": 0.667
+    },
+    "đạo_đức#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "miễn_phí#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ca_ngợi#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "chê_bai#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "loang_lổ#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "điên#3": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "khiển_trách#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cạn_kiệt#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tái_tạo#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tiêu_hao#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "đắt#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hợp_lệ#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mở_rộng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "công_bằng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "trung_thực#7": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "bất_công#3": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "không_công_bằng#1": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "trung_thành#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chung_thủy#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bỏ_đạo#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nguy_hiểm#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đúng": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "sự_thật#2": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "chịu_nổi#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lang_thang#1": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "lạ#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "kỳ_lạ#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "khó_tính#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mảnh_dẻ#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "khổ_sở#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vớ_vẩn#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "bất_hạnh#3": {
+        "posScore": 0.0,
+        "negScore": 1.0
+    },
+    "ngon#1": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "gọn_gàng#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "trật_tự#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "không_thể_tưởng_tượng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chu_đáo#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "vô_tâm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "suy_nghĩ#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "không_biết": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "ngăn_nắp#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chỉnh_tề#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bù_xù#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "bị": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "làm": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "nhàu#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "nhăn": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "nhúm#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "lộn_xộn#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "trật_tự#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bừa_bộn#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "chịu_đựng": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chịu_đựng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cay_đắng#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "chịu#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "độc#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "chất_độc#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khó#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "quấy_rầy#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "làm_phiền#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "quấy_rối#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "khổ#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thanh_thản#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "gian_dối#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "cảnh_giác#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nghi_ngờ#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tin_cậy#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "điển_hình#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "cao_cấp#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "vô_dụng#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "vô_ích#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "dùng": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hợp_lệ#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vô_giá_trị#1": {
+        "posScore": 0.75,
+        "negScore": 0.25
+    },
+    "vặt#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "không_đáng_kể#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "vô_nghĩa#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ý": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "định#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vô_tội#3": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "không_có": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "gì": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "chê_trách": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "ác#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nồng_nhiệt#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "mong_mỏi#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "hoan_nghênh#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bình_phục#1": {
+        "posScore": 0.625,
+        "negScore": 0.375
+    },
+    "chữa": {
+        "posScore": 0.625,
+        "negScore": 0.375
+    },
+    "lành#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khỏi#1": {
+        "posScore": 0.625,
+        "negScore": 0.375
+    },
+    "viêm": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cuống_phổi#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chóng_mặt#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "ham_chơi": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "số": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "là": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lạ#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "xanh#4": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tê_liệt#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "liệt#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "dính#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lành_mạnh#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "hợp_vệ_sinh#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "dễ": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "sử_dụng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sẵn_sàng#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "muốn#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "miễn_cưỡng#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "khôn#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "ngu_ngốc#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "dốt#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "mòn#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đáng_khen_ngợi#1#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "rất": {
+        "posScore": 0.125,
+        "negScore": 0.6
+    },
+    "đáng": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "mừng#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "quý_giá#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thiêng": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "liêng#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "xác_đáng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ác_tính#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "tiêu_độc#1": {
+        "posScore": 0.375,
+        "negScore": 0.5
+    },
+    "kháng": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "virus#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "dị_ứng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "suy_nhược#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nhân_từ#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "vành#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "háu_ăn#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ung_thư#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tuần_hoàn#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "suy_giảm_miễn_dịch#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "bền_vững#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "kháng_khuẩn#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tài_chính#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ngôn_ngữ#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "cá_nhân#3": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "tham_số#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hợp_lý#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "êm_tai#1": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "tinh_túy#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "co_cứng#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "hại#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lạm_dụng#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "vu_khống#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "bôi_nhọ#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "phỉ_báng#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "nói_xấu#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "gièm_pha#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tai_hại#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thê_thảm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "phản_tác_dụng#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "tồi#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "xảo_quyệt#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "quỷ_quyệt#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "có_hại#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đau_thương#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "đau_nhói#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "du_dương#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "tinh_khiết#4": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "điều": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "hòa#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "kháng_sinh#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bổ_ích#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "hữu_cơ#5": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "phòng_ngừa#3": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "phòng#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "ngăn_chặn#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "hại_sức_khỏe#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "vô_hiệu_hóa#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "gây_bệnh#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lành_mạnh#3": {
+        "posScore": 0.125,
+        "negScore": 0.875
+    },
+    "hoạt_động#2": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "hỗn_loạn#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hữu_hình#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "có_thể": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "sờ_mó": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "vật": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "thể#2": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "sờ_thấy": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "vô": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "hình#2": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "sốt#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "hồng_hào#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "hồng#2": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "má_hồng#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "khỏe_khoắn#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "khỏe_mạnh#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "khỏe#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "mạnh#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "săn": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "chắc#8": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "săn#8": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "sung_sức#4": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "tráng_kiện#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "mạnh_khỏe#4": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "tươi_tắn#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đỏ_ửng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tươi": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "như": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "hoa#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "trẻ_trung#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "nhức_nhối#3": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "đỏ_ngầu#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khỏe_mạnh#5": {
+        "posScore": 0.0,
+        "negScore": 1.0
+    },
+    "tốt#10": {
+        "posScore": 0.0,
+        "negScore": 1.0
+    },
+    "loét#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ung_loét#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thối": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "mục#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đầy": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khí#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đau_bụng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "bệnh_lý#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "bệnh_học#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "bệnh_hoạn#3": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "bệnh#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "chứng_phù#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "phù#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hoại#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hoại_tử#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sưng_tấy#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tấy#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "viêm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vàng#6": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vàng": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "da#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tâm_thần#5": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ốm_yếu#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "vàng_vọt#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "đau_mắt#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "giãn": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tĩnh_mạch#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "khô#7": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "đờm#1": {
+        "posScore": 0.5,
+        "negScore": 0.375
+    },
+    "trên": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thiên_đường#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thanh_tao#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thiên_đàng#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thần_thánh#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thiêng_liêng#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thuộc": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "trái_đất#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "trần_tục#3": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nhẹ#8": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đầy_hơi#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tiêu#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nặng_bụng#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "hạng": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nhẹ#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nặng_nề#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đáng_lo_ngại#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "nhiễu_loạn#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "đau#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "buồn_phiền#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "buồn_rầu#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "sẵn_lòng": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "giúp_đỡ#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đều#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đồng_nhất#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nhẹ_nhàng#4": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "giúp_đỡ#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "giữ": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thể_diện#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "công_nghệ": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cao#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "lãi_suất": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "thấp#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nâng_cao#4": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xuống#6": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "giảm#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sắc": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nét#6": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "khàn_khàn#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "mô_phỏng#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "dị#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "dị_dạng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "biến_dị#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sai": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sự_thật#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "danh#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "kính#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đáng_kính_trọng#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chất_lượng": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "kém#3": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "lừa_đảo#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "hiểu_lầm#2": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "vô_vọng#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "gian_lận#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đê_tiện#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lăng_nhục#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "xấu_hổ#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ô_nhục#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đen_tối#12": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "xuống_cấp#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "giảm_giá_trị#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tương_lai#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ứ_đọng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chang_chang#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nhiệt_đới#4": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lạnh_toát#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cực#5": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "băng#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "lạnh#3": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "băng#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "lạnh": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "bắc_cực#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "lạnh#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "sinh_hàn#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nóng#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "oi_ả#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ngột_ngạt#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thường#5": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "không_phải": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "người#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cảm_động#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "máu_lạnh#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lạnh_lùng#9": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vui_nhộn#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "đùa#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "vui_đùa#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "pha_trò#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "thân_giao#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "am_hiểu#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "biết#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "truyền_nhiễm#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "công_nghiệp#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thương#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đề_cao#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "cao_cả#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "nam_tính#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "tánh": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "chất": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "đàn_ông#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "dũng_cảm#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "quản_lý#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "vị": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thành_niên#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "chưa": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "trưởng_thành#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thứ#5": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nhiễm_từ#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sưng#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sưng": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lên#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "sưng_húp#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ỏng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nhọt#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "sâu#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cánh_tay_phải#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "xếp_hạng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thứ_tự#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "phân_cấp#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tương_tự#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tương_đồng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đồng_đẳng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "không_trung_thực#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "giải_khuây#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nguôi_ngoai#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "đứng#3": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hiếu_khách#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ác_cảm#2": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "đối_lập#2": {
+        "posScore": 0.25,
+        "negScore": 0.75
+    },
+    "tàn_nhẫn#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hung_bạo#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "vũ_phu#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "thú_tính#3": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "cười#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tức_cười#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hài_hước#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "vui#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nhận_dạng": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "vô_định#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ung_dung#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "định": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "rõ#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "khiếm#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "suy_yếu#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hỏng_hóc#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "giảm_sút#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cảm_thấy#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chú_ý#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nhận_thấy": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "rõ#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "nhận_biết#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "có_thể_quan_sát#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mù_quáng#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khó": {
+        "posScore": 0.125,
+        "negScore": 0.6
+    },
+    "sờ_thấy#3": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "hoàn_hảo#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "trọn_vẹn#13": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "lý_tưởng#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "lỗi#1": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "bất_thường#5": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "phân": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "hủy_sinh_học#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thường_trực#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "kéo_dài#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "được_chấp_nhận#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cách_âm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "kháng#3": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "bất_tín#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vô_thần#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tín_ngưỡng#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "ngoại_đạo#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "an_ủi#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "gay_gắt#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "không_đội_trời": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "chung#1": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "đẹp#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thuyết_phục#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tin#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "không_thể_xảy_ra#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "vui_mừng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mất_lòng#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "bạc_bẽo#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "cau_mày#1": {
+        "posScore": 0.375,
+        "negScore": 0.5
+    },
+    "duyên_dáng#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "tuyệt_vời#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "thần": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "kì#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "ngưỡng_mộ#2": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thú_vị#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "ngọt_ngào#4": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "thô#8": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khôn_ngoan#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thất_sách#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "lạc_quan#2": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "dương#9": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "có_thể#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thực_hiện#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khả_thi#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "làm#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thể": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hoàn": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tác#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đạt": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cao_thế#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "công_suất": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tự_cao#1": {
+        "posScore": 0.125,
+        "negScore": 0.375
+    },
+    "tự_phụ#2": {
+        "posScore": 0.125,
+        "negScore": 0.375
+    },
+    "kiêu_ngạo#1": {
+        "posScore": 0.125,
+        "negScore": 0.375
+    },
+    "đoán_trước#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "quái_đản#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "thất_thường#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "vắng_mặt#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "sinh_lợi#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "lời_lãi#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "chính_đáng#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "nông_cạn#3": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "điềm_báo#2": {
+        "posScore": 0.125,
+        "negScore": 0.675
+    },
+    "điềm": {
+        "posScore": 0.125,
+        "negScore": 0.675
+    },
+    "gở#2": {
+        "posScore": 0.125,
+        "negScore": 0.675
+    },
+    "hợp": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "lễ#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "vô_duyên#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "đứng_đắn#1": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "bảo_vệ#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "báo_trước#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cảnh_báo#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tự_hào#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "khiêm_tốn#6": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "nhu_mì#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "thiếu": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "không_được": {
+        "posScore": 0.125,
+        "negScore": 0.6
+    },
+    "giáo_dục#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vô_giáo_dục#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "trong_sạch#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "pha_trộn#1": {
+        "posScore": 0.125,
+        "negScore": 0.875
+    },
+    "trộn_lẫn#1": {
+        "posScore": 0.125,
+        "negScore": 0.875
+    },
+    "đủ_tiêu_chuẩn#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vô_kỷ_luật#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "biến_đổi#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "định_lượng": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chất_lượng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chủ_tâm#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "minh_mẫn#3": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "vô_lý#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "huyền_thoại#2": {
+        "posScore": 0.25,
+        "negScore": 0.25
+    },
+    "truyền_thuyết#1": {
+        "posScore": 0.25,
+        "negScore": 0.25
+    },
+    "thực_tế#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "cơ_sở#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "biện_minh#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tinh_chế#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "qua": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "chế_biến#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tinh#2": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "mất#5": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "uy_tín#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "vinh_dự#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "quý#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "xứng_đáng#1": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "thù_địch#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "xúc_phạm#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vô_trách_nhiệm#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "phản_hồi#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vô_công": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "rồi": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nghề#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "bất_trị#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "kiềm_chế#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "kiểm_soát#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ngăn_chặn#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "bất_kính#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đánh_thức#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "phản#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khu": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ổ_chuột#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thẳng_thắn#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "đứng_đắn#4": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "thép#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "đanh_thép#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "mập_mạp#3": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "cứng_cỏi#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "yếu_đuối#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "mở#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "vô_nguyên_tắc#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vô_lương_tâm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "an_toàn#2": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "bảo_đảm#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "run#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "bấp_bênh#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tháo#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bảo_hiểm#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "cấp_trên#6": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "hạng_sang#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chia_sẻ#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "vô_cảm#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "gây_mê#2": {
+        "posScore": 0.125,
+        "negScore": 0.75
+    },
+    "kích_thích#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "kích_thích#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "màu_mỡ#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "dồi_dào#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hoàn_thành#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cạn_kiệt#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hạn#7": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vô_hạn#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "phân_hạch#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "với#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thích_hợp#2": {
+        "posScore": 0.75,
+        "negScore": 0.25
+    },
+    "tàn_tật#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khuyết_tật#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "dai_dẳng#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ám_ảnh#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "không_hề": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "khoan_nhượng#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "ngẫu_nhiên#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "định_mệnh#3": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thơm#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mùi_hôi_thối#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "mốc#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "hôi#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "mùi_thối#1": {
+        "posScore": 0.0,
+        "negScore": 0.7
+    },
+    "thối#1": {
+        "posScore": 0.0,
+        "negScore": 0.7
+    },
+    "mùi": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "ràng_buộc#3": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cố_định#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "cản_trở#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tự_do#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thường_xuyên#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hư_hỏng#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tươi#5": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "vui_tính#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "láng_giềng#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thân_thiện#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tê_buốt#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tan#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hiệu_quả#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "trắng#8": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "trống#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hào_hùng#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chính_hãng#1": {
+        "posScore": 0.636,
+        "negScore": 0.0
+    },
+    "thực_sự#1": {
+        "posScore": 0.6,
+        "negScore": 0.4
+    },
+    "xác_thực#2": {
+        "posScore": 0.6,
+        "negScore": 0.4
+    },
+    "giả#1": {
+        "posScore": 0.0,
+        "negScore": 0.556
+    },
+    "giả_mạo#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vinh_quang#1": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "sáng#6": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "siêu#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "không_kể_xiết#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "sợ_hãi#": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "khó_khăn#8": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cực_xấu#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "bốc_mùi_hôi_thối#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "xấu_hổ#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "thánh_thiện#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tiết_kiệm#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "trong": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "trắng#7": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "dã_man#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "nham_hiểm#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tham_nhũng#1": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "xấu_xa#2": {
+        "posScore": 0.125,
+        "negScore": 0.875
+    },
+    "ủ_rũ#1": {
+        "posScore": 0.25,
+        "negScore": 0.625
+    },
+    "hờn_dỗi#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "yểu_điệu#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "vu_khống": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tác_hại#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thảm_họa#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tinh_nghịch#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "phục_hồi#2": {
+        "posScore": 0.625,
+        "negScore": 0.125
+    },
+    "hạ_sốt#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "khó_tiêu#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "kiêu_căng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sốt_sắng#2": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "vô_nhân_đạo#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "thong_thả#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "nhàn_nhã#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khôi_hài#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "dí_dỏm#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nắm_bắt#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "trơ#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đần_độn#10": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nhạy#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tê_tái#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "áp": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "xe#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "nhiễm#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "thối_rữa#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thối_nát#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "khử_trùng#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "nhiễm_bệnh#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "vô_trùng#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "phù_phiếm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "vui_tươi#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "nhõng_nhẽo#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "gợi_cảm#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "lãnh_cảm#3": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "độc_quyền#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "duy_nhất#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tác_dụng#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "phức_tạp#2": {
+        "posScore": 0.5,
+        "negScore": 0.375
+    },
+    "biến_chứng#1": {
+        "posScore": 0.5,
+        "negScore": 0.375
+    },
+    "chân_thành#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thành_thạo#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tập#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chuyên_gia#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chuyên_nghiệp#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "tinh_tế#2": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "siêu_mịn#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "khói#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "khói": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thuốc#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cả_tin#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "kiên_cố#5": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "bão": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tinh_thần#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "lanh_lợi#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "nhẫn_tâm#2": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "rung_rinh#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "loạng_choạng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "run_rẩy#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ọp_ẹp#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đối_đầu#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "thân_thiện#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "dại#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sự_chống_đối": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "Do": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "Thái#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "chống": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "suy_nhược": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thần_kinh#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "công_tước#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "đột_biến#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "lác_mắt#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tiền": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thực_": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bào#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thích#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "ước#2": {
+        "posScore": 0.125,
+        "negScore": 0.0
+    },
+    "quan_tâm#3": {
+        "posScore": 0.125,
+        "negScore": 0.0
+    },
+    "giao": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "điểm#2": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "tốt#31": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "do": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "dự#2": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "ngập_ngừng#1": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "nạn_nhân#2": {
+        "posScore": 0.125,
+        "negScore": 0.625
+    },
+    "tai_họa#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "rắc_rối#2": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "sự_bất_tiện#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "bất": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tiện#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "xúc": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "phạm#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "phiền#3": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "ưa#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sai#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "định_kiến#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "buồn_bã#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đáng_tiếc#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "than_ôi#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "ám_sát#1": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "thoát#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cướp#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ăn_cắp#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tặng#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "hiến#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "xem#17": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "bứt_rứt#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "châm_chích#4": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "gai#2": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "chịu": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "đựng#3": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tỏa": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "sáng#9": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "bừng": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "rạng": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "rỡ#6": {
+        "posScore": 0.75,
+        "negScore": 0.125
+    },
+    "mùi#3": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "dường_như#4": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "phù_hợp#6": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "giá": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đổ#3": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tự_do#6": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "bán#8": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "phản_bội#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hội_đủ": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "điều_kiện#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "hóa": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "lẫn#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "đứng": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "yên#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thủ_đoạn#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "bại_hoại#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lật_đổ": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "thô_tục#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "gởi": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lộn#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "suy": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đồi#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "hư#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nhục#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chống_đỡ#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "phục_hồi": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chức_năng#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "giải_phóng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "giải": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "trừ#2": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hy_sinh#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cho#16": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "trả_giá": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cao": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hơn#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "bụi#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "đẩy_lùi#2": {
+        "posScore": 0.25,
+        "negScore": 0.125
+    },
+    "hy_vọng#2": {
+        "posScore": 0.625,
+        "negScore": 0.25
+    },
+    "nỗi": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thống_khổ#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "giận_dữ#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "do_đó#3": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "chỉ": {
+        "posScore": 0.125,
+        "negScore": 0.0
+    },
+    "còn": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nhỏ#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "mơ_mộng#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "không_tập_trung#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sáo_rỗng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "kém": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đến_đâu#2": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "hay#4": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "bóng_bẩy#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "kiểu": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nhận_thức": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "sáo_rỗng#4": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tạo": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "cảm": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hứng#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "một_chút": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "sáng_tạo#2": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tệ#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hơi": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "xưa_cũ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "như_vậy#1": {
+        "posScore": 0.125,
+        "negScore": 0.6
+    },
+    "chỉ_trích#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nhiều": {
+        "posScore": 0.6,
+        "negScore": 0.0
+    },
+    "điều_tốt_đẹp#1": {
+        "posScore": 0.6,
+        "negScore": 0.0
+    },
+    "cũng": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "cải_thiện": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "chưa_chắc": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "khả_năng#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "mang": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lại": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cảm_hứng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "chân_thực": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "rùng_mình#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "dày_cộp#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "thật": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "lắm": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thay#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "xì_xào#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "soi_mói#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "khơi": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "dậy#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "hào_hứng": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lắm#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "làm_gì": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hơn": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "khô_khan#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ngây_ngô": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đến": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "vậy#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "hành_hạ#1": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "thấy": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "vã_mồ_hôi#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "bạo_hành#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "tổn_thương#1": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "canh_cánh#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "cực": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "kỳ": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "phẫn_nộ#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "chia_buồn#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "coi_thường#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "vượt_qua": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mọi": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thử_thách#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ủng": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hộ#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hết": {
+        "posScore": 0.875,
+        "negScore": 0.5
+    },
+    "sức": {
+        "posScore": 0.875,
+        "negScore": 0.5
+    },
+    "mình#1": {
+        "posScore": 0.875,
+        "negScore": 0.5
+    },
+    "sức_khoẻ#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "cơ_hội#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "không_bao_giờ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "khó_khăn": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "đến_thế#1": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "từ_thiện#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ghê": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nhỉ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "bình_thường": {
+        "posScore": 0.125,
+        "negScore": 0.0
+    },
+    "mà#1": {
+        "posScore": 0.125,
+        "negScore": 0.0
+    },
+    "cơn": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "dễ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "tăng_lên#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "hàng_hiệu#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chuyện": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "hiệu_năng#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "mới": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đâu#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "giá_đắt": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "thèm#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chấn_chỉnh": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "và": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chấm_dứt#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "choai_choai#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đừng": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "buồn#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "thấu_hiểu#1": {
+        "posScore": 0.6,
+        "negScore": 0.0
+    },
+    "phấn_đấu#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "đục_khoét": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "của_công#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "giàu": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "lên": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "vì": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "quan_tâm#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "ghét": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "cay": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "ghét_đắng#1": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "chẳng": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "việc_gì": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "phải": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "tính_toán#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "trọc_phú#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "thượng_lưu#1": {
+        "posScore": 0.5,
+        "negScore": 0.125
+    },
+    "nhà_giàu#1": {
+        "posScore": 0.675,
+        "negScore": 0.0
+    },
+    "thiển_cận#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cổ_hủ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "khinh_người#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "kênh_kiệu#1": {
+        "posScore": 0.0,
+        "negScore": 0.675
+    },
+    "ủy": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "mị#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "nhàm_chán#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "giỏi_giang#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "không_thể_nào": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "chấp_nhận": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "chân#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "thiện#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "mỹ#1": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "lệch_lạc#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bàng_hoàng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "lôi_cuốn": {
+        "posScore": 0.625,
+        "negScore": 0.0
+    },
+    "uyên_bác#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "hùng_biện#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xót_xa#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đau_lòng": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "thế_nào#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "choáng_váng#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "mỏng_manh#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "đích_đáng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ác": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "hơn_cả": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "thú#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tổn_thất": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nặng_nề#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "xót_xa": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đau_lòng#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "nhân_tính#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tức": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "chết": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đi": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "đuợc#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "bức_xúc#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "cùng": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tàn_ác#1": {
+        "posScore": 0.0,
+        "negScore": 0.875
+    },
+    "tình_thương#1": {
+        "posScore": 0.0,
+        "negScore": 0.625
+    },
+    "ghét#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "yêu#1": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "thích_thú": {
+        "posScore": 0.875,
+        "negScore": 0.0
+    },
+    "#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "a_dua#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ác_hiểm#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "ác_khẩu#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ác_liệt#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ái_mộ#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "an_phận#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ám_muội#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ái_ân#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "ảo_tưởng#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "ăn_đủ#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ăn_hiếp#": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ăn_khách#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ăn_thua#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "âm_thầm#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "ấm_êm": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ẩm_ướt#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ân_hận#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "ân_nghĩa#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "ẩn_nấp#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "ẩn_ý#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "ấp_úng#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "bạc_đãi#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bãi_nhiệm#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "bãi_bỏ#1": {
+        "posScore": 0.25,
+        "negScore": 0.25
+    },
+    "bán_tháo#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "bàng_quan#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "bảo_lãnh#1": {
+        "posScore": 0.5,
+        "negScore": 0.25
+    },
+    "bần_bật#1": {
+        "posScore": 0.0,
+        "negScore": 0.25
+    },
+    "báo_oán#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "chần_chừ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "chân_tình#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "chằng_chịt#1": {
+        "posScore": 0.0,
+        "negScore": 0.25
+    },
+    "bày_vẽ#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "châm_chọc#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "bập_bõm#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "chằm_chằm#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "be_bét#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "cấp_bách#1": {
+        "posScore": 0.25,
+        "negScore": 0.5
+    },
+    "cất_nhắc#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "chăm_chút#1": {
+        "posScore": 0.675,
+        "negScore": 0.0
+    },
+    "chập_chờn#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "hay#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tuyệt#1": {
+        "posScore": 0.6,
+        "negScore": 0.0
+    },
+    "lười#1": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "chăm#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "nghiêm_túc#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "thở_phào#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "nhẹ_nhõm#1": {
+        "posScore": 0.6,
+        "negScore": 0.0
+    },
+    "tối_ưu#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "tiêu_cực#1": {
+        "posScore": 0.0,
+        "negScore": 0.6
+    },
+    "cải_tiến#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xinh#1": {
+        "posScore": 0.5,
+        "negScore": 0.0
+    },
+    "xinh_xắn#1": {
+        "posScore": 0.6,
+        "negScore": 0.0
+    },
+    "khờ#1": {
+        "posScore": 0.125,
+        "negScore": 0.5
+    },
+    "ngu#1": {
+        "posScore": 0.0,
+        "negScore": 0.75
+    },
+    "giỏi#1": {
+        "posScore": 0.75,
+        "negScore": 0.0
+    },
+    "xấu#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "xấu_xí#1": {
+        "posScore": 0.0,
+        "negScore": 0.5
+    },
+    "vung": {
+        "posScore": 0.0,
+        "negScore": 0.3
+    },
+    "tay": {
+        "posScore": 0.0,
+        "negScore": 0.3
+    },
+    "trán#1": {
+        "posScore": 0.0,
+        "negScore": 0.3
+    }
+}
