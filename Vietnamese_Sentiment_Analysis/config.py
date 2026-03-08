@@ -1,7 +1,5 @@
 import torch
 
-# Cần phải chỉnh sửa lại file code này
-
 class Config:
     """Configuration class for model hyperparameters"""
     
